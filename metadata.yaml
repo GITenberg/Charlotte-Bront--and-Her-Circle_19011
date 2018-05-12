@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8404
     wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19011#Charlotte-Bront--and-Her-Circle
 gutenberg_issued: '2006-08-08'
 gutenberg_type: Text
 identifiers:
